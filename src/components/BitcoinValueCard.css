@@ -1,0 +1,13 @@
+.value-card-text {
+  font-weight: 600;
+  font-size: 18pt;
+  text-align: justify;
+  opacity: 0.8;
+}
+.value-card {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 5%;
+  width: 100%;
+  background: white;
+}
