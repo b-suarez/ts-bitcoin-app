@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ts-bitcoin-app/static/css/main.bcec0998.chunk.css",
+    "main.js": "/ts-bitcoin-app/static/js/main.7450c455.chunk.js",
+    "main.js.map": "/ts-bitcoin-app/static/js/main.7450c455.chunk.js.map",
+    "runtime-main.js": "/ts-bitcoin-app/static/js/runtime-main.4ed3665c.js",
+    "runtime-main.js.map": "/ts-bitcoin-app/static/js/runtime-main.4ed3665c.js.map",
+    "static/js/2.39ad9213.chunk.js": "/ts-bitcoin-app/static/js/2.39ad9213.chunk.js",
+    "static/js/2.39ad9213.chunk.js.map": "/ts-bitcoin-app/static/js/2.39ad9213.chunk.js.map",
+    "index.html": "/ts-bitcoin-app/index.html",
+    "precache-manifest.9bc852b3118788d9a499b0ccabe8c40b.js": "/ts-bitcoin-app/precache-manifest.9bc852b3118788d9a499b0ccabe8c40b.js",
+    "service-worker.js": "/ts-bitcoin-app/service-worker.js",
+    "static/css/main.bcec0998.chunk.css.map": "/ts-bitcoin-app/static/css/main.bcec0998.chunk.css.map",
+    "static/js/2.39ad9213.chunk.js.LICENSE": "/ts-bitcoin-app/static/js/2.39ad9213.chunk.js.LICENSE",
+    "static/media/bitcoinLogo.png": "/ts-bitcoin-app/static/media/bitcoinLogo.8ee75c23.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ed3665c.js",
+    "static/js/2.39ad9213.chunk.js",
+    "static/css/main.bcec0998.chunk.css",
+    "static/js/main.7450c455.chunk.js"
+  ]
+}
